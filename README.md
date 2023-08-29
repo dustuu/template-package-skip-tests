@@ -7,4 +7,4 @@ The VPM Badge will work because we had a successful release, but the Code Covera
 
 [![VPM Package Version](https://img.shields.io/vpm/v/com.vrchat.demo-template?repository_url=https%3A%2F%2Fdustuu.github.io%2Ftemplate-package-skip-tests%2Findex.json)](https://dustuu.github.io/template-package-skip-tests)
 
-[![Code Coverage](https://dustuu.github.io/template-package-unconfigured/coverage/badge_linecoverage.svg)](https://dustuu.github.io/template-package-skip-tests/coverage)
+[![Code Coverage](https://dustuu.github.io/template-package-skip-tests/coverage/badge_linecoverage.svg)](https://dustuu.github.io/template-package-skip-tests/coverage)
